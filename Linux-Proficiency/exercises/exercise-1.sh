@@ -7,3 +7,4 @@ do
         mkdir "${extensions[i]}"
         touch "${extensions[i]}/$name${extensions[i]}"
 done
+ll
