@@ -1,5 +1,5 @@
 #!/bin/bash
-today="$(date +%y-%m-%d)"
+today="$(date +%Y-%m-%d)"
 homeDirectory="exercise-3-playground"
 cleanup_desktop() {
     #create the folder on the desktop
