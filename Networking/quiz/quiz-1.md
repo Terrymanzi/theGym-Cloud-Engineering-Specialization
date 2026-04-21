@@ -61,7 +61,7 @@
 ### Q9. What is NAT primarily used for?
 
 **Answer:** Translating private IP addresses to public IP addresses  
-**Explanation:** NAT allows multiple devices to share one public IP.
+**Explanation:** Network Address Translation (NAT) allows multiple devices to share one public IP.
 
 ---
 
